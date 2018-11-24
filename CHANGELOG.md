@@ -1,6 +1,6 @@
 ## Extra Icons Change Log
 
-### TODO, ideas
+### 1.0 (WIP)
 * add a panel in `Settings > Other Settings` to select extra icons to activate.
 
 ### 0.17 (WIP)
